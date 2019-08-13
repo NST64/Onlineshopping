@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Onlineshopping]">
+  <test thread-count="5" name="Webautomation Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.webautomation.testcases.TC_LoginTest_001">
+        <methods>
+          <include name="teardown"/>
+          <include name="WebLoginpageTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.webautomation.testcases.TC_LoginTest_001 -->
+    </classes>
+  </test> <!-- Webautomation Test(failed) -->
+</suite> <!-- Failed suite [Onlineshopping] -->

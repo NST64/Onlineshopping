@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102142" started-at="2019-08-13T06:02:49Z" finished-at="2019-08-13T06:04:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102142" started-at="2019-08-13T06:02:49Z" finished-at="2019-08-13T06:04:31Z">
+      <class name="com.webautomation.testcases.TC_OrderTshirt_002">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.webautomation.testcases.TC_OrderTshirt_002@42dafa95]" name="setup" is-config="true" duration-ms="14267" started-at="2019-08-13T06:02:49Z" finished-at="2019-08-13T06:03:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest()[pri:1, instance:com.webautomation.testcases.TC_OrderTshirt_002@42dafa95]" name="LoginTest" duration-ms="7266" started-at="2019-08-13T06:03:03Z" finished-at="2019-08-13T06:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.webautomation.testcases.TC_OrderTshirt_002@42dafa95]" name="Teardown" is-config="true" duration-ms="789" started-at="2019-08-13T06:03:11Z" finished-at="2019-08-13T06:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.webautomation.testcases.TC_OrderTshirt_002@42dafa95]" name="setup" is-config="true" duration-ms="15933" started-at="2019-08-13T06:03:11Z" finished-at="2019-08-13T06:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="OrderTshirtTest()[pri:2, instance:com.webautomation.testcases.TC_OrderTshirt_002@42dafa95]" name="OrderTshirtTest" duration-ms="62988" started-at="2019-08-13T06:03:27Z" finished-at="2019-08-13T06:04:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderTshirtTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.webautomation.testcases.TC_OrderTshirt_002@42dafa95]" name="Teardown" is-config="true" duration-ms="830" started-at="2019-08-13T06:04:30Z" finished-at="2019-08-13T06:04:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.webautomation.testcases.TC_OrderTshirt_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
